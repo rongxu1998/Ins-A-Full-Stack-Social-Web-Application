@@ -7,7 +7,7 @@ Around is a full-stack web application for people to share photos/videos and pub
 
 ### Project Architecture
 
-<p align="center"><img src="pictures/web-architecture.png" alt="Project Architecture"></p>
+<p align="center"><img src="https://github.com/rongxu1998/Ins-A-Full-Stack-Social-Web-Application/blob/main/web-architecture.png"></p>
 
 ### Technical Details
 
