@@ -1,4 +1,4 @@
-# Ins+ A-Full-Stack-Social-Web-Application
+# Ins+: A Full Stack Social Web Application
 <p align="center"><img src="https://github.com/rongxu1998/Ins-A-Full-Stack-Social-Web-Application/blob/main/demo-1.png"></p>
 
 ### Description
